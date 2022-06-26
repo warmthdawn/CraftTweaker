@@ -1,3 +1,10 @@
+# Description
+
+**This is a fork of [crafttweaker](https://github.com/CraftTweaker/CraftTweaker/tree/1.12), adding support of some debug features.**
+
+Used together with vscode plugin [Debugger for Zen](https://github.com/warmthdawn/debugger-for-zen)
+
+
 # CraftTweaker
 
 Welcome to the Crafttweaker source! Crafttweaker is the official continuation of Minetweaker 3 and plans on staying updated for the latest Minecraft versions.
